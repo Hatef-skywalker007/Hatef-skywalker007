@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello There👋
 
-<!--
-**Hatef-skywalker007/Hatef-skywalker007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hatef Jani 
+a developer  passionate about **Artifical Intelligence**, Machine Learning,Analyzing Data, And Deep Learning.
+Always Ready and curious to Learn new Things and Build project that can make a real impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills
+- Machine Learning & Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Data Analysis & Visualization
+
+---
+
+##Technologies
+- **Language : **Python, C++ ,C# ,SQL,PHP
+- **Frameworks & Libraries : **Pytorch, TensorFlow, Scikit-Learn, OpenCV, Numpy, Matplotlib, Pandas, Seaborn, django, FastAPI, FastAI
+- **Tools : Git, Docker, Linux(Kali,mint,Ubuntu, Jupyter Notebook, Visual Studio code ,Note++
+
+---
+
+## Languages
+- Persian (Native)
+- English (Fluent)
+- German (B1/B2)
+- Japanese (Elementary/Intermediate)
+
+---
+
+## Contact 
+- Email : Janlipourhatef@gmail.com
+- LinkedIN : 

@@ -2,7 +2,7 @@
 
 I'm Hatef Jani  
 A developer passionate about **Artificial Intelligence**, Machine Learning, and Deep Learning.  
-Always curious to learn new things and build projects that make real impact. 🚀  
+Always curious and Ready to learn new things and build projects that make real impact. 🚀  
 
 ---
 
@@ -42,6 +42,7 @@ Always curious to learn new things and build projects that make real impact. �
 ---
 
 - **Tools :**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

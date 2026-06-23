@@ -53,8 +53,7 @@ Always curious and Ready to learn new things and build projects that make real i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)  
-![PowerBI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
-![RStudio](https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg)
+-RStudio
 
 Used for statistical analysis and data modeling with R.
 ---
